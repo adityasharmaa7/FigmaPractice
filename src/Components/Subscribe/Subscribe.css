@@ -1,0 +1,48 @@
+.innerBox h1{
+    color: white;
+    font-family: Helvetica Now Display;
+    font-size: 55px;
+    font-weight: 500;
+    line-height: 75.35px;
+    text-align: center;
+    height: 75px;
+    position: relative;
+    top: 8%;
+}
+
+.outerBox{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 200px;
+}
+.innerBox{
+    background: #47474780;
+    width: 1245px;
+    height: 356px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}
+.inputBox input{
+    background: #E4E4E4;
+    width: 276px;
+    height: 53px;
+    border-radius: 8px 0px 0px 8px;   
+    border: none; 
+    margin-right: 1%;
+}
+.inputBox button {
+    background: #E3B748;
+    width: 116px;
+    height: 55px;
+    border-radius: 0px 8px 8px 0px;
+    border: none;
+}
+.inputBox{
+    position: relative;
+    top: 12%;
+    width: 100%;
+    text-align: center;
+}

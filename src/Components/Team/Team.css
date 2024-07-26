@@ -1,0 +1,59 @@
+.title{
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 77.23px;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.teamPage{
+    color: white;
+    padding-bottom: 100px;
+}
+.members{
+    display: flex;
+    justify-content: space-between;
+    margin: 5vw;
+
+}
+
+.person{
+    display: flex;
+    width: 344px;
+    height: 109px;
+    position: relative;
+    border-radius: 15px;
+}
+.person span{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+    position: relative;
+    top: 30px;
+    left: 55px;
+
+}
+.person p{
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    position: relative;
+    top: 20px;
+    left: 55px;
+    opacity: 30%;
+}
+.person img {
+    position: relative;
+    left: 25px;
+    top: 20px;
+    width: 68px;
+    height: 68px;
+}

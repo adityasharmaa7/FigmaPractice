@@ -1,0 +1,63 @@
+.grandParent{
+    color: white;
+    width: 100%;
+    height: 100%;
+    /* margin-left: 6vw; */
+    padding-bottom: 200px;
+}
+.child h1{
+    width: 106px;
+    height: 75px;
+    font-family: Inter;
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74.53px;
+    text-align: left;
+    margin: 0%;
+}
+.child p {
+    opacity: 30%;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 29.25px;
+    text-align: left;
+}
+.grandChild h3{
+    width: 399px;
+    height: 24px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: left;
+}
+.grandChild{
+    position: relative;
+}
+.grandChild div{
+    background: #E3B748;
+    width: 28px;
+    height: 28px;
+    border-radius: 100%;
+    color: black;
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 21.78px;
+    text-align: left;
+    position: relative;
+    top: 23px;
+}
+.parent{
+        display: flex;
+        justify-content: space-around;
+}
+
+.child{
+    position: relative;
+}
+.childContainer{
+    position: relative;
+    top: 14%;
+}

@@ -1,0 +1,40 @@
+.Footer{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    position: relative;
+    top: 20%;
+}
+.outerfooter{
+    color: white;
+    background: #171717;
+    width: 100%;
+    height: 367px;
+    padding-top: 80px;
+    position: relative;
+}
+.logo p{
+    width: 101.3px;
+    height: 15.95px;
+    font-weight: 600;
+    font-size: larger;
+}
+.handles{
+   position: relative;
+}
+.footertext{
+    display: flex;
+}
+.text p{
+    margin: 0px;
+}
+.last{
+    display: flex;
+    justify-content: center;   
+    position: relative;
+    top: 40%;
+    left: 2%;
+}
+.last p{
+    padding-right: 2%;
+}

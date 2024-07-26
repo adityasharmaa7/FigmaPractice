@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    padding-top: 2vh;
+}
+
+.logo{
+    display: flex;
+    width: 143px;
+    height: 30.3px;
+}
+
+.logo p {
+    margin: 0%;
+    padding-top: 3px;
+    padding-left: 3px;
+}
+
+.image{
+    width: 30.42px;
+    height: 30.3px;
+}
+
+.text{
+    margin-right: 2vw;
+    margin-left: 2vw;
+}
+.navtext {
+    display: flex;
+}
+
+.contactButton button {
+    background-color: #111111;
+    color: white;
+    border: 2px solid #FFFFFF;
+    width: 172px;
+    height: 47px;
+}
